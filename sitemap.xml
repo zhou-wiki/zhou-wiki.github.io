@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://zhou-wiki.github.io/2022/07/30/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhou-wiki.github.io/about/index.html</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhou-wiki.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhou-wiki.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhou-wiki.github.io/2022/07/30/index/</loc>
+    
+    <lastmod>2022-07-30</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://zhou-wiki.github.io/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+  <url>
+    <loc>https://zhou-wiki.github.io/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2022-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>

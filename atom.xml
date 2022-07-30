@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhou&#39;s Wiki</title>
+  
+  
+  <link href="https://zhou-wiki.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhou-wiki.github.io/"/>
+  <updated>2022-07-30T10:33:22.147Z</updated>
+  <id>https://zhou-wiki.github.io/</id>
+  
+  <author>
+    <name>zh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome Zhou jun wei&#39;s Wiki Site</title>
+    <link href="https://zhou-wiki.github.io/2022/07/30/index/"/>
+    <id>https://zhou-wiki.github.io/2022/07/30/index/</id>
+    <published>2022-07-30T10:33:22.147Z</published>
+    <updated>2022-07-30T10:33:22.147Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2022/07/30/index/index.jpg" alt="维基百科" style="zoom:200%;">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img src=&quot;/2022/07/30/index/index.jpg&quot; alt=&quot;维基百科&quot; style=&quot;zoom:200%;&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>程序员的数学</title>
+    <link href="https://zhou-wiki.github.io/2022/07/30/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/"/>
+    <id>https://zhou-wiki.github.io/2022/07/30/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/</id>
+    <published>2022-07-29T16:00:00.000Z</published>
+    <updated>2022-07-30T10:42:35.764Z</updated>
+    
+    
+    
+    
+    <category term="程序员的数学" scheme="https://zhou-wiki.github.io/categories/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6/"/>
+    
+    
+  </entry>
+  
+</feed>
